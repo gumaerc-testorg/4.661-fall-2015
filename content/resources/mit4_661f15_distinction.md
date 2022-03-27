@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 264fea02-b0ac-7f19-bb10-7d474754064e
 resourcetype: Document
 title: 'Class Distinctions: Dutch Painting in the Age of Rembrandt and Vermeer'
 uid: ab6088b4-608a-5a5a-578f-7e167a7676f9

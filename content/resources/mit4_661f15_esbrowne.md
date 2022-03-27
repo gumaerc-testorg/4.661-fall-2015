@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 264fea02-b0ac-7f19-bb10-7d474754064e
 resourcetype: Document
 title: 'Laura Letinsky Untitled #49 Formal Analysis'
 uid: 4d37260b-b569-c0af-85c6-978ddbced8ea

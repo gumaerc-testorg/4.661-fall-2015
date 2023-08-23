@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -115,7 +117,7 @@ Choose a work or works (maximum 2) on view in the area, and conduct a rigorous f
 
 ### Sample Student Work
 
-"[Laura Letinsky, _Untitled, #49_, 2002 (PDF)]({{< baseurl >}}/resources/mit4_661f15_esbrowne)" MIT, List Visual Arts Center. (Courtesy of Elizabeth Saari Browne. Used with permission.)
+"{{% resource_link 4d37260b-b569-c0af-85c6-978ddbced8ea "Laura Letinsky, _Untitled, #49_, 2002 (PDF)" %}}" MIT, List Visual Arts Center. (Courtesy of Elizabeth Saari Browne. Used with permission.)
 
 Reader's Report (1 page)
 ------------------------
@@ -130,11 +132,11 @@ MIT students met with the professor to discuss their paper topics and ideas for 
 Exhibition Review (2–5 pages)
 -----------------------------
 
-Drawing on our readings about institutions and exhibitions, write a brief review of a permanent collection or temporary exhibition currently on view, or the building / installation in which it is housed. Good candidates might be the fall exhibition at the [MIT List Gallery](https://listart.mit.edu/) ([I.M.Pei Building](http://listart.mit.edu/public-art-map/wiesner-building)), or whatever is on view at the [The Institute of Contemporary Art](http://www.icaboston.org/), Boston ([Design Talk: Elizabeth Diller and Ricardo Scofidio](http://www.icaboston.org/events/design-talk-elizabeth-diller-diller-scofidio-renfro-0)), the [Davis Museum](https://www.wellesley.edu/davismuseum/) at Wellesley College, the [Museum of Fine Arts](http://www.mfa.org/), Boston, the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Gardner Museum addition by Renzo Piano](https://www.gardnermuseum.org/about/new-meets-old#chapter1), the reopened [Harvard Art Museums](http://www.harvardartmuseums.org/) ([Piano again](http://www.harvardartmuseums.org/about/press-media/harvard-art-museums-renovated-and-expanded-facility-to-open-november-16-2014))—the list goes on. Think also about ethnographic collections such as Harvard's [Peabody Museum](https://www.peabody.harvard.edu/) or the [Peabody Essex Museum](http://www.pem.org/) ([Moshe Safdie Building](http://www.pem.org/about/architecture)). If possible, position the "art objects" within their original historical context and analyze their changed Socio-cultural positioning within the museum or gallery; or examine how the architecture creates that condition. Questions to think about: What is the exhibition's stated theme? Why is the exhibition being done now? How does the architecture of the installation express these meanings? What public(s) does it serve? Is there any relation, explicit or implicit, between the sponsor(s) and the goal of the exhibition?
+Drawing on our readings about institutions and exhibitions, write a brief review of a permanent collection or temporary exhibition currently on view, or the building / installation in which it is housed. Good candidates might be the fall exhibition at the [MIT List Gallery](https://listart.mit.edu/) ([I.M.Pei Building](http://listart.mit.edu/public-art-map/wiesner-building)), or whatever is on view at the [The Institute of Contemporary Art](http://www.icaboston.org/), Boston ([Design Talk: Elizabeth Diller and Ricardo Scofidio](http://www.icaboston.org/events/design-talk-elizabeth-diller-diller-scofidio-renfro-0)), the [Davis Museum](https://www.wellesley.edu/davismuseum/) at Wellesley College, the [Museum of Fine Arts](http://www.mfa.org/), Boston, the [Gardner Museum addition by Renzo Piano](https://www.gardnermuseum.org/about/new-meets-old#chapter1), the reopened [Harvard Art Museums](http://www.harvardartmuseums.org/) ([Piano again](http://www.harvardartmuseums.org/about/press-media/harvard-art-museums-renovated-and-expanded-facility-to-open-november-16-2014))—the list goes on. Think also about ethnographic collections such as Harvard's [Peabody Museum](https://www.peabody.harvard.edu/) or the [Peabody Essex Museum](http://www.pem.org/) ([Moshe Safdie Building](http://www.pem.org/about/architecture)). If possible, position the "art objects" within their original historical context and analyze their changed Socio-cultural positioning within the museum or gallery; or examine how the architecture creates that condition. Questions to think about: What is the exhibition's stated theme? Why is the exhibition being done now? How does the architecture of the installation express these meanings? What public(s) does it serve? Is there any relation, explicit or implicit, between the sponsor(s) and the goal of the exhibition?
 
 ### Sample Student Work
 
-"[Class Distinctions: Dutch Painting in the Age of Rembrandt and Vermeer (PDF)]({{< baseurl >}}/resources/mit4_661f15_distinction)" Museum of Fine Arts, Boston. (Courtesy of an MIT student. Used with permission.)
+"{{% resource_link ab6088b4-608a-5a5a-578f-7e167a7676f9 "Class Distinctions: Dutch Painting in the Age of Rembrandt and Vermeer (PDF)" %}}" Museum of Fine Arts, Boston. (Courtesy of an MIT student. Used with permission.)
 
 Media Analysis (1–2 pages)
 --------------------------
@@ -149,6 +151,6 @@ Be prepared to present your abstract, no more than one single-spaced page, toget
 Final Research Paper (15–20 pages)
 ----------------------------------
 
-[Guidelines (PDF)]({{< baseurl >}}/resources/mit4_661f15_final)
+{{% resource_link b01bd714-6526-ccc1-badc-308c944949cc "Guidelines (PDF)" %}}
 
 There are benchmarks in Mid-term when you will be expected to provide a preliminary outline and bibliography. Prior to submitting the outline and bibliography, MIT students attended at least one visit to the professor's office hours to propose various topics and discuss them with the professor. There are no proscribed topics for the final research paper, and ideally the subject will serve to further your own research into the history and method of your chosen specialization.

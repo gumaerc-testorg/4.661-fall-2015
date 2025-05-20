@@ -3,7 +3,7 @@ content_type: resource
 description: Example of student work for an assignment to write a brief review of
   a permanent collection or temporary exhibition currently on view, or the building
   or installation in which it is housed.
-file: /ol-ocw-studio-app/courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/ab6088b4608a5a5a578f7e167a7676f9_MIT4_661F15_Distinction.pdf
+file: /courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/ab6088b4608a5a5a578f7e167a7676f9_MIT4_661F15_Distinction.pdf
 file_size: 137713
 file_type: application/pdf
 learning_resource_types:
